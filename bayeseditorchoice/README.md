@@ -1,1 +1,1 @@
-# bays-classifer
+# bayes-classifer
